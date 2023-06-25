@@ -1,5 +1,7 @@
 #pragma once
 
 #define TAPPING_TERM 100
+#define TAP_CODE_DELAY 10 
+#define ENCODER_RESOLUTION 4
 
-#define TAP_CODE_DELAY 10
+#define SPLIT_LAYER_STATE_ENABLE
